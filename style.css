@@ -19714,3 +19714,15 @@ body.white-version .rn-btn-ulderline {
 .skill{
   margin-top: -10px;
 }
+
+@media only screen and (min-width: 200px) and (max-width: 991px) {
+
+ .matriculation{
+  margin-top: -166px;
+}}
+
+@media only screen and (min-width: 200px) and (max-width: 991px) {
+  .btech{
+    height: 500px;
+  }
+}
