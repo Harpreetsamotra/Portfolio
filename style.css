@@ -19707,3 +19707,6 @@ body.white-version .rn-btn-ulderline {
 
 /*# sourceMappingURL=../maps/style.css.map */
 
+.subtitle-hide,.maintitle-hide{
+  visibility: hidden;
+}
