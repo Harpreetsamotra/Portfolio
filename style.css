@@ -19710,3 +19710,7 @@ body.white-version .rn-btn-ulderline {
 .subtitle-hide,.maintitle-hide{
   visibility: hidden;
 }
+
+.skill{
+  margin-top: -10px;
+}
