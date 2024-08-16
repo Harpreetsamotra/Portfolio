@@ -19726,3 +19726,14 @@ body.white-version .rn-btn-ulderline {
     height: 500px;
   }
 }
+
+.name-input{
+  width: 100%;
+}
+.form-width{
+  width: 100%;
+}
+
+/* button .rn-btn:hover{
+  color: white;
+} */
