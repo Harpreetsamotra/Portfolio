@@ -19737,3 +19737,21 @@ body.white-version .rn-btn-ulderline {
 /* button .rn-btn:hover{
   color: white;
 } */
+.languages li{
+border: 1px solid #ddd;
+padding: 0.4em 0.8em;
+border-radius: 50px;
+margin-bottom: 0.5em;
+margin-right: 0.5em;
+}
+
+.languages{
+  list-style-type: none;
+  /* display: -webkit-box; */
+  /* display: -ms-flexbox; */
+  display: flex;
+  /* -ms-flex-wrap: wrap; */
+  flex-wrap: wrap;
+  font-size: 0.85em;
+  padding: 10px;
+}
